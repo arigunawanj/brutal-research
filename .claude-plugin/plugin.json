@@ -1,0 +1,8 @@
+{
+  "name": "brutal-research",
+  "description": "Gen Z Indonesian adversarial deep research: challenge ideas with current evidence, compare real alternatives, decide build/pivot/validate/kill.",
+  "version": "1.0.0",
+  "author": { "name": "Ari Gunawan Jatmiko" },
+  "repository": "https://github.com/arigunawanj/brutal-research",
+  "license": "MIT"
+}

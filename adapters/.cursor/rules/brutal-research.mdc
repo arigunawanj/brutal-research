@@ -1,0 +1,5 @@
+---
+description: Evidence-based brutal product and technical idea research
+alwaysApply: false
+---
+When the user asks for ideation critique, market research, competitor comparisons, or build/pivot evaluation, read `skills/brutal-research/SKILL.md` and follow it. Trigger it selectively, not for every code edit. If a feature-specific rule attachment is supported, use it; otherwise attach this rule manually.
